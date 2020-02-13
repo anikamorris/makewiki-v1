@@ -18,11 +18,7 @@
 
 4. **Open the `makewiki` repository folder** in your IDE.
 
-## Step 2: Link Repository in Tracker
-
-Add the link to your project in the [Course Tracker](https://make.sc/trackbew1.2).
-
-## Step 3: CRUD Page Instances (Admin Interface)
+## Step 2: CRUD Page Instances (Admin Interface)
 
 1. In your terminal, run `python manage.py runserver`.
 2. Visit `http://127.0.0.1:8000/admin/` in your browser.
@@ -30,7 +26,7 @@ Add the link to your project in the [Course Tracker](https://make.sc/trackbew1.2
 4. Click `Pages` on the left, underneath `Users` and `Groups`.
 5. Add real world data from 5 random Wikipedia articles using http://wikiroulette.co/.
 
-## Step 4: Solve the Challenges
+## Step 3: Solve the Challenges
 
 **NOTE**: Complete the challenges in all files before moving on to stretch challenges. Your grade is dependent on the completion of the challenges only.
 
@@ -45,7 +41,7 @@ You will also need to create templates in `wiki/templates/wiki` for use with you
 
 **TIP**: Find all challenges by searching the project for instances of the word `CHALLENGE`. To **search all files in your project directory**, press `<Command>` + `<Shift>` + `<F>`, type `CHALLENGE`, and hit `<Return>`.
 
-## Step 5: Level Up
+## Step 4: Level Up
 
 ### Suggestions
 
@@ -54,6 +50,6 @@ You will also need to create templates in `wiki/templates/wiki` for use with you
 - Make the models more sophisticated.
 - What other features can you dream up? What would look good on your portfolio? Open up a discussion with your instructor to receive personalized feedback.
 
-## Step 6: Add to Portfolio
+## Step 5: Add to Portfolio
 
 Add your `makewiki` implementation to your [Make School portfolio](https://www.makeschool.com/portfolio).
